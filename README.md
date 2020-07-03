@@ -131,3 +131,6 @@ Use this space to show useful examples of how a project can be used. Additional 
 <!-- LICENSE -->
 ## License
 Describe your [License](LICENSE) for your project. 
+
+### gitignore 
+It is used to avoid sending large size (more than 100MB) folders to your repo unnecessarily. You can add link to your google drive or other sources if required for large size folders. **It is a very bad practise to upload large files to github** 
